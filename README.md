@@ -51,4 +51,3 @@ This repository contains a small electric vehicle analytics workflow built on a 
 ## Notes
 
 - The SQLite database file is already available in the `database/` folder.
-- The `powerbi/` folder is intentionally included now so future Power BI content can be added without README changes.
